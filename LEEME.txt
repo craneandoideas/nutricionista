@@ -1,0 +1,9 @@
+INSTALACIÓN CORREGIDA
+
+1. Descomprime el ZIP.
+2. Sube TODOS los archivos HTML, JSON, JS y PNG a la raíz del repositorio nutricionista. Los PNG van junto a index.html: esta versión no requiere carpeta icons.
+3. Guarda los cambios y espera a que termine la publicación de GitHub Pages.
+4. Abre https://craneandoideas.github.io/nutricionista/icon-192.png?v=5 y comprueba que aparece la hojita.
+5. Quita el acceso anterior o desinstala la app anterior si estaba instalada. Abre la página publicada y vuelve a instalarla/agregarla a la pantalla de inicio.
+
+Se conservaron los ajustes visuales, el borrador de correo y el QR publicado. Se verificaron las dimensiones de los cinco PNG, sus rutas y la sintaxis JavaScript. La instalación final requiere publicar estos archivos y probar en el dispositivo.

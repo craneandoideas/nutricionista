@@ -1,0 +1,42 @@
+{
+  "name": "Dra. Alejandra Barreto - Nutricionista Funcional",
+  "short_name": "Dra. Barreto",
+  "description": "Nutrición funcional: consulta personalizada, nutrición deportiva y control de peso sostenible.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#6AB980",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon-32.png?v=5",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png?v=5",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png?v=5",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png?v=5",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png?v=5",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./",
+  "scope": "./"
+}
