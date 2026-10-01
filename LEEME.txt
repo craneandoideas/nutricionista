@@ -1,0 +1,10 @@
+MINI APP — DRA. ALEJANDRA BARRETO
+
+Publica index.html, manifest.json y sw.js juntos, mediante HTTPS.
+Incluye la carpeta icons suministrada en este paquete, junto a index.html, manifest.json y sw.js. Contiene los cinco tamaños e iconos que requieren el manifest y el service worker.
+
+WhatsApp conserva el enlace general suministrado. Para contacto directo se requiere el número de la profesional. Agendar abre un borrador a abarreto@gmail.com con los datos del formulario, mediante la aplicación de correo predeterminada del dispositivo. Si Gmail está configurado como predeterminado, lo abrirá allí. La persona puede editar el mensaje antes de enviarlo.
+El QR usa la dirección actual de publicación y un servicio externo para generar la imagen. Compruébalo desde la URL pública.
+El envío por FormSubmit mantiene el funcionamiento original y puede requerir activación del nuevo correo. También conserva la alternativa mailto.
+
+Verificación: sintaxis JavaScript, manifest JSON, tres servicios, modales, referencias e identidad. No se realizó prueba visual ni instalación PWA porque el entorno no dispone de navegador .
